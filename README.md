@@ -31,5 +31,8 @@ It demonstrates the highly elliptical path of a comet around the Sun, along with
 1. Clone the repository:  
    ```bash
    git clone https://github.com/mansurby/Comet.py.git
+   cd comet-orbit
+pip install -r requirements.txt
+python comet.py
    cd Comet.py
 
